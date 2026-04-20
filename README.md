@@ -1,1 +1,1 @@
-# TS-Logic-Lab1
+# TS-Logic-Lab
